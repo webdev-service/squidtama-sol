@@ -1,1 +1,1 @@
-# squidtama-sol
+# SQUIDTAMA
